@@ -1,0 +1,29 @@
+.balance {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    margin-top: 57px;
+}
+
+.balance__gem-text-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.balance__gem {
+    width: 75px;
+    height: 83px;
+}
+
+.balance__num {
+    font-size: 100px;
+    margin-left: 12px;
+    font-weight: 700;
+}
+
+.balance__text {
+    font-size: 20px;
+    font-weight: 700;
+}
